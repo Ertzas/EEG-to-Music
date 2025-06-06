@@ -67,6 +67,12 @@ This pipeline provides an interactive and personalized form of music composition
 
 ---
 
+## Prototype Integration: EEG-to-Rhythm Gameplay
+
+As a feasibility study, the system was extended to interface with a custom Guitar Hero–style rhythm game. Music generated from EEG activity using the hosted MusicGen interface is analyzed for onset timing and spectral features. This information is then used to generate note charts within the game, enabling users to play back their brain-driven compositions as an interactive rhythm experience. This prototype demonstrates the potential for EEG-based music to serve as dynamic input for gameplay mechanics and rhythm-based interaction.
+
+---
+
 ## Setup Instructions
 
 ### Hardware
