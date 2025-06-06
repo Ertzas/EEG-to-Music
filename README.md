@@ -5,6 +5,7 @@ This project implements a brain-computer interface (BCI) that translates real-ti
 
 It enables hands-free music composition by classifying mental states such as relaxation, concentration, and emotional arousal from multichannel EEG data, and converting those into structured musical parameters.
 
+![Certificate](./2nd-place-certificate.png)
 ---
 
 ## Overview
